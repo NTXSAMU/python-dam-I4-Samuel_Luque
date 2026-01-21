@@ -1,0 +1,626 @@
+{
+  "timestamp": "2026-01-21T17:27:40.749693",
+  "plazas": [
+    {
+      "id": "A1",
+      "tipo_parking": "AREA_PRIVADA",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "A2",
+      "tipo_parking": "AREA_PRIVADA",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "A3",
+      "tipo_parking": "AREA_PRIVADA",
+      "exclusiva_minusvalido": true,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "A4",
+      "tipo_parking": "AREA_PRIVADA",
+      "exclusiva_minusvalido": true,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "A5",
+      "tipo_parking": "AREA_PRIVADA",
+      "exclusiva_minusvalido": true,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "A6",
+      "tipo_parking": "AREA_PRIVADA",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": true,
+      "coche": {
+        "matricula": "5772ICC",
+        "tipo": "ELECTRICO",
+        "hora_entrada": "2026-01-21T17:27:32.434894",
+        "duracion_estimada": 240
+      },
+      "entrada": "2026-01-21T17:27:32.434894"
+    },
+    {
+      "id": "A7",
+      "tipo_parking": "AREA_PRIVADA",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "A8",
+      "tipo_parking": "AREA_PRIVADA",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": true,
+      "coche": {
+        "matricula": "8839DWX",
+        "tipo": "MOTO",
+        "hora_entrada": "2026-01-21T17:27:38.876923",
+        "duracion_estimada": 60
+      },
+      "entrada": "2026-01-21T17:27:38.876923"
+    },
+    {
+      "id": "B1",
+      "tipo_parking": "AREA_PRIVADA",
+      "exclusiva_minusvalido": false,
+      "es_electrica": true,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "B2",
+      "tipo_parking": "AREA_PRIVADA",
+      "exclusiva_minusvalido": false,
+      "es_electrica": true,
+      "ocupada": true,
+      "coche": {
+        "matricula": "7392NCU",
+        "tipo": "ELECTRICO",
+        "hora_entrada": "2026-01-21T17:27:38.220824",
+        "duracion_estimada": 120
+      },
+      "entrada": "2026-01-21T17:27:38.220824"
+    },
+    {
+      "id": "B3",
+      "tipo_parking": "AREA_PRIVADA",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": true,
+      "coche": {
+        "matricula": "6280MKM",
+        "tipo": "MOTO",
+        "hora_entrada": "2026-01-21T17:27:36.404901",
+        "duracion_estimada": 120
+      },
+      "entrada": "2026-01-21T17:27:36.404901"
+    },
+    {
+      "id": "B4",
+      "tipo_parking": "AREA_PRIVADA",
+      "exclusiva_minusvalido": true,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "B5",
+      "tipo_parking": "AREA_PRIVADA",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": true,
+      "coche": {
+        "matricula": "6293WXD",
+        "tipo": "MINUSVALIDO",
+        "hora_entrada": "2026-01-21T17:27:37.980405",
+        "duracion_estimada": 240
+      },
+      "entrada": "2026-01-21T17:27:37.980405"
+    },
+    {
+      "id": "B6",
+      "tipo_parking": "AREA_PRIVADA",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": true,
+      "coche": {
+        "matricula": "3674AJF",
+        "tipo": "MOTO",
+        "hora_entrada": "2026-01-21T17:27:36.148604",
+        "duracion_estimada": 60
+      },
+      "entrada": "2026-01-21T17:27:36.148604"
+    },
+    {
+      "id": "B7",
+      "tipo_parking": "AREA_PRIVADA",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": true,
+      "coche": {
+        "matricula": "9141PXU",
+        "tipo": "MOTO",
+        "hora_entrada": "2026-01-21T17:27:38.420991",
+        "duracion_estimada": 120
+      },
+      "entrada": "2026-01-21T17:27:38.420991"
+    },
+    {
+      "id": "B8",
+      "tipo_parking": "AREA_PRIVADA",
+      "exclusiva_minusvalido": true,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "C1",
+      "tipo_parking": "SUBTERRANEO",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "C2",
+      "tipo_parking": "SUBTERRANEO",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "C3",
+      "tipo_parking": "SUBTERRANEO",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "C4",
+      "tipo_parking": "SUBTERRANEO",
+      "exclusiva_minusvalido": false,
+      "es_electrica": true,
+      "ocupada": true,
+      "coche": {
+        "matricula": "2981MXX",
+        "tipo": "ELECTRICO",
+        "hora_entrada": "2026-01-21T17:27:19.218020",
+        "duracion_estimada": 120
+      },
+      "entrada": "2026-01-21T17:27:19.218020"
+    },
+    {
+      "id": "C5",
+      "tipo_parking": "SUBTERRANEO",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "C6",
+      "tipo_parking": "SUBTERRANEO",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": true,
+      "coche": {
+        "matricula": "5411POX",
+        "tipo": "MINUSVALIDO",
+        "hora_entrada": "2026-01-21T17:27:38.979690",
+        "duracion_estimada": 120
+      },
+      "entrada": "2026-01-21T17:27:38.979690"
+    },
+    {
+      "id": "C7",
+      "tipo_parking": "SUBTERRANEO",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "C8",
+      "tipo_parking": "SUBTERRANEO",
+      "exclusiva_minusvalido": true,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "D1",
+      "tipo_parking": "SUBTERRANEO",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "D2",
+      "tipo_parking": "SUBTERRANEO",
+      "exclusiva_minusvalido": true,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "D3",
+      "tipo_parking": "SUBTERRANEO",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": true,
+      "coche": {
+        "matricula": "2314VTA",
+        "tipo": "MINUSVALIDO",
+        "hora_entrada": "2026-01-21T17:27:38.661284",
+        "duracion_estimada": 60
+      },
+      "entrada": "2026-01-21T17:27:38.661284"
+    },
+    {
+      "id": "D4",
+      "tipo_parking": "SUBTERRANEO",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": true,
+      "coche": {
+        "matricula": "9153ATQ",
+        "tipo": "MINUSVALIDO",
+        "hora_entrada": "2026-01-21T17:27:35.868615",
+        "duracion_estimada": 180
+      },
+      "entrada": "2026-01-21T17:27:35.868615"
+    },
+    {
+      "id": "D5",
+      "tipo_parking": "SUBTERRANEO",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "D6",
+      "tipo_parking": "SUBTERRANEO",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "D7",
+      "tipo_parking": "SUBTERRANEO",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "D8",
+      "tipo_parking": "SUBTERRANEO",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "E1",
+      "tipo_parking": "SUBTERRANEO",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": true,
+      "coche": {
+        "matricula": "7028NUC",
+        "tipo": "MINUSVALIDO",
+        "hora_entrada": "2026-01-21T17:27:39.317021",
+        "duracion_estimada": 180
+      },
+      "entrada": "2026-01-21T17:27:39.317021"
+    },
+    {
+      "id": "E2",
+      "tipo_parking": "SUBTERRANEO",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "E3",
+      "tipo_parking": "SUBTERRANEO",
+      "exclusiva_minusvalido": false,
+      "es_electrica": true,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "E4",
+      "tipo_parking": "SUBTERRANEO",
+      "exclusiva_minusvalido": true,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "E5",
+      "tipo_parking": "SUBTERRANEO",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "E6",
+      "tipo_parking": "SUBTERRANEO",
+      "exclusiva_minusvalido": true,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "E7",
+      "tipo_parking": "SUBTERRANEO",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "E8",
+      "tipo_parking": "SUBTERRANEO",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": true,
+      "coche": {
+        "matricula": "6877MKD",
+        "tipo": "MINUSVALIDO",
+        "hora_entrada": "2026-01-21T17:27:36.892878",
+        "duracion_estimada": 60
+      },
+      "entrada": "2026-01-21T17:27:36.892878"
+    },
+    {
+      "id": "F1",
+      "tipo_parking": "EXTERIOR",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": true,
+      "coche": {
+        "matricula": "9204IXL",
+        "tipo": "NORMAL",
+        "hora_entrada": "2026-01-21T17:27:37.700753",
+        "duracion_estimada": 120
+      },
+      "entrada": "2026-01-21T17:27:37.700753"
+    },
+    {
+      "id": "F2",
+      "tipo_parking": "EXTERIOR",
+      "exclusiva_minusvalido": true,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "F3",
+      "tipo_parking": "EXTERIOR",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "F4",
+      "tipo_parking": "EXTERIOR",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "F5",
+      "tipo_parking": "EXTERIOR",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "F6",
+      "tipo_parking": "EXTERIOR",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": true,
+      "coche": {
+        "matricula": "5125ZPM",
+        "tipo": "NORMAL",
+        "hora_entrada": "2026-01-21T17:27:33.950645",
+        "duracion_estimada": 30
+      },
+      "entrada": "2026-01-21T17:27:33.950645"
+    },
+    {
+      "id": "F7",
+      "tipo_parking": "EXTERIOR",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": true,
+      "coche": {
+        "matricula": "3261KWH",
+        "tipo": "NORMAL",
+        "hora_entrada": "2026-01-21T17:27:19.218479",
+        "duracion_estimada": 480
+      },
+      "entrada": "2026-01-21T17:27:19.218479"
+    },
+    {
+      "id": "F8",
+      "tipo_parking": "EXTERIOR",
+      "exclusiva_minusvalido": false,
+      "es_electrica": true,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "G1",
+      "tipo_parking": "EXTERIOR",
+      "exclusiva_minusvalido": false,
+      "es_electrica": true,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "G2",
+      "tipo_parking": "EXTERIOR",
+      "exclusiva_minusvalido": false,
+      "es_electrica": true,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "G3",
+      "tipo_parking": "EXTERIOR",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": true,
+      "coche": {
+        "matricula": "8196QJG",
+        "tipo": "NORMAL",
+        "hora_entrada": "2026-01-21T17:27:36.676331",
+        "duracion_estimada": 60
+      },
+      "entrada": "2026-01-21T17:27:36.676331"
+    },
+    {
+      "id": "G4",
+      "tipo_parking": "EXTERIOR",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": true,
+      "coche": {
+        "matricula": "3788TFT",
+        "tipo": "NORMAL",
+        "hora_entrada": "2026-01-21T17:27:19.218285",
+        "duracion_estimada": 30
+      },
+      "entrada": "2026-01-21T17:27:19.218285"
+    },
+    {
+      "id": "G5",
+      "tipo_parking": "EXTERIOR",
+      "exclusiva_minusvalido": false,
+      "es_electrica": true,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "G6",
+      "tipo_parking": "EXTERIOR",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "G7",
+      "tipo_parking": "EXTERIOR",
+      "exclusiva_minusvalido": true,
+      "es_electrica": false,
+      "ocupada": false,
+      "coche": null,
+      "entrada": null
+    },
+    {
+      "id": "G8",
+      "tipo_parking": "EXTERIOR",
+      "exclusiva_minusvalido": false,
+      "es_electrica": false,
+      "ocupada": true,
+      "coche": {
+        "matricula": "8455MKW",
+        "tipo": "NORMAL",
+        "hora_entrada": "2026-01-21T17:27:35.308855",
+        "duracion_estimada": 60
+      },
+      "entrada": "2026-01-21T17:27:35.308855"
+    }
+  ],
+  "reservas": [
+    "9141PXU",
+    "2314VTA",
+    "8455MKW",
+    "9153ATQ",
+    "9204IXL",
+    "6877MKD",
+    "5772ICC",
+    "6280MKM",
+    "8196QJG",
+    "8839DWX",
+    "7028NUC",
+    "7392NCU",
+    "6293WXD",
+    "3674AJF"
+  ],
+  "estadisticas": {
+    "total_entradas": 19,
+    "total_salidas": 0,
+    "rechazos": 0,
+    "recaudacion_total": 0.0
+  }
+}
